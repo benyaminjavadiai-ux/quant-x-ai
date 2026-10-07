@@ -1,0 +1,7 @@
+streamlit>=1.50
+pandas>=2.2
+numpy>=1.26
+requests>=2.32
+plotly>=6.0
+scikit-learn>=1.5
+websocket-client>=1.8
